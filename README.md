@@ -40,5 +40,4 @@ Total params: ~853,400 (trainable).
 - Epoch 1: Train acc 0.8863, Val acc 0.8665
 - Epoch 2: Train acc 0.8959, Val acc 0.8504
 - Epoch 3: Train acc 0.9171, Val acc 0.8766
--
-- # Sentiment-analysis
+
